@@ -2,6 +2,7 @@ import re
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import sched, time
+from datetime import datetime
 
 s = sched.scheduler(time.time, time.sleep)
 def run():
@@ -21,7 +22,7 @@ def run():
     mess = b.find_elements_by_class_name('text-center')
     num_people = int(re.search(r'\d+', mess[1].text).group())
     with open('datapoints.txt', 'a') as f:
-        f.write(str(num_people) + "\n")
+        f.write(str(datetime.now()) + ", " + str(num_people) + "\n")
 
     b.quit()
     print("Done.")
@@ -29,5 +30,6 @@ def run():
 
 s.enter(1, 1, run)
 s.run()
+
 
 
