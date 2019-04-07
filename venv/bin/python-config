@@ -1,4 +1,4 @@
-#!/private/var/www/gymnumbers/venv/bin/python
+#!/home/rodrigo/python/gymnumbers/venv/bin/python
 
 import sys
 import getopt
