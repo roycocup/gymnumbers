@@ -168,3 +168,232 @@ IPDL protocol error: Handler returned error code!
 
 [Parent 25962, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
 [Parent 25962, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554647976684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZYiwqsoJ1OZl"
+1554647977123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554647977123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554647979856	Marionette	INFO	Listening on port 38693
+1554647979899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554647995958	Marionette	INFO	Stopped listening on port 38693
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 28117, Gecko_IOThread] WARNING: pipe error (113): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554648297276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I82lRb6ZQzA7"
+1554648297775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554648297775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554648300496	Marionette	INFO	Listening on port 43579
+1554648300601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554648314327	Marionette	INFO	Stopped listening on port 43579
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 30167, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 30167, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554648615636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6NTjZtWHdDxr"
+1554648616131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554648616131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554648619006	Marionette	INFO	Listening on port 45861
+1554648619062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554648631908	Marionette	INFO	Stopped listening on port 45861
+JavaScript error: https://www.puregym.com/members/, line 451: ReferenceError: MembersArea is not defined
+[Parent 32293, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 32293, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554648933688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FTdIhLtuOwGN"
+1554648934111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554648934111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554648936859	Marionette	INFO	Listening on port 33221
+1554648936925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554648949569	Marionette	INFO	Stopped listening on port 33221
+[Parent 2190, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 2331, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 2331, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500BA,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 464: NS_ERROR_ILLEGAL_VALUE
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 464: NS_ERROR_ILLEGAL_VALUE
+1554649250725	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T3a7AcS1jpXR"
+1554649251142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554649251142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554649254136	Marionette	INFO	Listening on port 44285
+1554649254240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554649267892	Marionette	INFO	Stopped listening on port 44285
+[Parent 4390, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554649569029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.atsfxpwWwbu7"
+1554649569446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554649569446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554649572102	Marionette	INFO	Listening on port 41751
+1554649572144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554649584852	Marionette	INFO	Stopped listening on port 41751
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6399, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 6399, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554649886001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EsjrIBQ0ADkc"
+1554649886436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554649886436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554649889199	Marionette	INFO	Listening on port 36567
+1554649889212	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+[Parent 8435, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554654525564	Marionette	INFO	Stopped listening on port 36567
+1554654530979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.54iKiBMJgJIv"
+1554654532141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554654532141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554654536054	Marionette	INFO	Listening on port 38243
+1554654536093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554654549534	Marionette	INFO	Stopped listening on port 38243
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 5437, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5309, Gecko_IOThread] WARNING: pipe error (116): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554654852140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5pJaTaD2hrDD"
+1554654855194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554654855194	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554654861617	Marionette	INFO	Listening on port 43253
+1554654861713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554654866184	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+1554654872070	Marionette	INFO	Stopped listening on port 43253
+[Parent 7738, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 7738, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554655048631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.W5W0cVXcyPHB"
+*** You are running in headless mode.
+1554655058028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554655058028	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554655067159	Marionette	INFO	Listening on port 32821
+1554655067173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554655080882	Marionette	INFO	Stopped listening on port 32821
+[Child 9678, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 9444, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554655383308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Xv4B0Q2jxzB3"
+*** You are running in headless mode.
+1554655383778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554655383778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554655388523	Marionette	INFO	Listening on port 42229
+1554655388625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554655410024	Marionette	INFO	Stopped listening on port 42229
+[Parent 11958, Gecko_IOThread] WARNING: pipe error (110): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554655712400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DmdGDVYyIeRh"
+*** You are running in headless mode.
+1554655712802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554655712802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554655715803	Marionette	INFO	Listening on port 32847
+1554655715810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554655731026	Marionette	INFO	Stopped listening on port 32847
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500B9,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1554656032460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pAy9x0vE7S89"
+*** You are running in headless mode.
+1554656032938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554656032938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554656036909	Marionette	INFO	Listening on port 45167
+1554656036985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554656050375	Marionette	INFO	Stopped listening on port 45167
+[Parent 16377, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+1554656352246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JL4bxM2laWMH"
+*** You are running in headless mode.
+1554656352665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554656352666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554656355519	Marionette	INFO	Listening on port 40991
+1554656355560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554656368491	Marionette	INFO	Stopped listening on port 40991
+1554656669820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JltzSr0bMIQH"
+*** You are running in headless mode.
+1554656670180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1554656670180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1554656672920	Marionette	INFO	Listening on port 39235
+1554656672933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1554656685205	Marionette	INFO	Stopped listening on port 39235
+[Child 20783, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 20783, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 20783, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Parent 20626, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 20626, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-72FCXa/firefox-65.0.1+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349

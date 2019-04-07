@@ -1,8 +1,10 @@
 import re
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.options import Options
 import sched, time
 from datetime import datetime
+
 
 s = sched.scheduler(time.time, time.sleep)
 def run():
@@ -12,7 +14,10 @@ def run():
     url = 'https://www.puregym.com'
 
 
-    b = webdriver.Firefox()
+    
+    options = Options()
+    options.add_argument("--headless")
+    b = webdriver.Firefox(options=options)
     b.get(url + '/login')
     e = b.find_element(value='email').send_keys(email)
     p = b.find_element(value='pin').send_keys(pin)
