@@ -3,5 +3,5 @@ mechanize==0.4.1
 selenium==3.141.0
 six==1.12.0
 splinter==0.10.0
-urllib3==1.24.1
+urllib3==1.26.17
 webencodings==0.5.1
